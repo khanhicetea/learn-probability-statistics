@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "probability-statistics"
+version = "0.1.0"
+description = "Learn Probability and Statistics"
+authors = ["KhanhIceTea <khanhicetea@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "^1.0.0"
+matplotlib = "^3.4.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
