@@ -1,6 +1,6 @@
 ## Learn Probability & Statistics (using Python)
 
-I follow this course from Medium : https://geekrodion.medium.com/course-probability-theory-and-statistics-for-programmers-353e20202620
+### Probability
 
 - [x] [Lesson 1 - Basic Concepts](./books/lesson1-basic-concepts.ipynb)
 - [ ] [Lesson 2 - Operations on events]()
@@ -17,6 +17,8 @@ I follow this course from Medium : https://geekrodion.medium.com/course-probabil
 - Run local jupyter server, and open it in browser
 
 ## REF
+
+I follow this course from Medium : https://geekrodion.medium.com/course-probability-theory-and-statistics-for-programmers-353e20202620
 
 Thank to author of the course : this guy have product to monitoring your timing http://increaser.org/
 
