@@ -2,7 +2,7 @@
 
 ### Statistics
 
-- [x] [Lesson 1 - Basic Concepts](./books/statistics/histograms.ipynb)
+- [x] [Lesson 1 - Histograms](./books/statistics/histograms.ipynb)
 
 ### Probability
 
