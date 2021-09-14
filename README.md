@@ -1,9 +1,13 @@
 ## Learn Probability & Statistics (using Python)
 
+### Statistics
+
+- [x] [Lesson 1 - Basic Concepts](./books/statistics/histograms.ipynb)
+
 ### Probability
 
-- [x] [Lesson 1 - Basic Concepts](./books/lesson1-basic-concepts.ipynb)
-- [ ] [Lesson 2 - Operations on events]()
+- [x] [Lesson 1 - Basic Concepts](./books/probability/lesson1-basic-concepts.ipynb)
+- [ ] [Lesson 2 - Operations on Events](./books/probability/lession2-operations-on-events.ipynb)
 
 ## Usage
 
@@ -18,9 +22,7 @@
 
 ## REF
 
-I follow this course from Medium : https://geekrodion.medium.com/course-probability-theory-and-statistics-for-programmers-353e20202620
-
-Thank to author of the course : this guy have product to monitoring your timing http://increaser.org/
+- I follow statistics course from YouTube channel named StatQuest , [link here](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=1)
 
 ## LICENSE
 
