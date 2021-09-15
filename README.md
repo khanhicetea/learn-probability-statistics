@@ -3,6 +3,7 @@
 ### Statistics
 
 - [x] [Lesson 1 - Histograms](./books/statistics/histograms.ipynb)
+- [x] [Lesson 2 - Normal Distribution](./books/statistics/normal-distribution.ipynb)
 
 ### Probability
 
